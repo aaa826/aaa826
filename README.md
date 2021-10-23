@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/channel/UCWCbB73jm6ZfI6pHTAxCCJQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="jennifer li" height="30" width="40" /></a>
-<a href="https://discord.com/channels/890589174384693288/890669780921643028" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/channels/890589174384693288/890669780921643028" height="30" width="40" /></a>
+<a href="https://discord.gg/WfWRGq8u" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/channels/890589174384693288/890669780921643028" height="30" width="40" /></a>
   <a href="https://web.roblox.com/users/1824035910/profile" target="blank"><img align="center" src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/67/39/16/67391692-491f-3e5f-eb95-86ab4e0e2dc0/source/512x512bb.jpg" alt="Breeezily" height="30" width="40" /></a</p>
 
 <h3 align="left">Languages and Tools:</h3>
